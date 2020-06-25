@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30607" started-at="2020-06-24T12:49:25Z" finished-at="2020-06-24T12:49:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30607" started-at="2020-06-24T12:49:25Z" finished-at="2020-06-24T12:49:56Z">
+      <class name="Testcase.PropertyTest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:Testcase.PropertyTest@109b8da]" name="setExtent" is-config="true" duration-ms="270" started-at="2020-06-24T18:19:25Z" finished-at="2020-06-24T18:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testcase.PropertyTest@109b8da]" name="setup" is-config="true" duration-ms="11563" started-at="2020-06-24T18:19:26Z" finished-at="2020-06-24T18:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sortpriceDesending()[pri:0, instance:Testcase.PropertyTest@109b8da]" name="sortpriceDesending" duration-ms="17640" started-at="2020-06-24T18:19:37Z" finished-at="2020-06-24T18:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortpriceDesending -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testcase.PropertyTest@109b8da]" name="tearDown" is-config="true" duration-ms="737" started-at="2020-06-24T18:19:55Z" finished-at="2020-06-24T18:19:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortpriceDesending status=SUCCESS method=PropertyTest.sortpriceDesending()[pri:0, instance:Testcase.PropertyTest@109b8da] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Testcase.PropertyTest@109b8da]" name="endReport" is-config="true" duration-ms="376" started-at="2020-06-24T18:19:56Z" finished-at="2020-06-24T18:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Testcase.PropertyTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
